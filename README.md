@@ -55,4 +55,4 @@ These projects helped me practice **DOM manipulation, event handling, logic buil
 ## 🎯 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/js-mini-projects.git
+   git clone https://github.com/Ninad-18/js-mini-projects.git
