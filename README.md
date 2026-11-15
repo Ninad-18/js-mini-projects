@@ -47,8 +47,8 @@ These projects helped me practice **DOM manipulation, event handling, logic buil
 
 ## 🛠️ Tech Stack
 - **HTML5**  
-- **CSS3** (Flexbox, Grid, Styling & Animations)  
-- **JavaScript (ES6)**  
+- **CSS** 
+- **JavaScript**  
 
 ---
 
